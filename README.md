@@ -4,7 +4,7 @@
 
 <br>
 	
-## <picture><img src = "" width = 50px></picture> <b> >>> About me </b>
+## <b> >>> About me </b>
 
 <br>
 
