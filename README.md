@@ -9,7 +9,7 @@
 <br>
 
 - Hello and welcome to my GitHub profile! Do Viet Phuong is my real name, however for convenience, you may call me Requiem.
-- I am currently studying Computer Science for a Bachelor's degree, specializing on web and software development.
+- I am currently studying Software Engineering for a Bachelor's degree, specializing on web and software development.
 - I am currently seeking opportunities for a backend internship to participate in genuine working environment and hone my abilities.
 - I also tried to pursue the indie game development industry, but I have to put it aside for more pratical reasons. So in case you ever require a game designer or developer, feel free to get in touch!
 
