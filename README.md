@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Welcome!</b></h1>
-<h2 align="center"><b>I am RequiemRekuiemu</b></h2>
+<h2 align="center"><b>I am Requiemレクイエム</b></h2>
 
 <br>
 	
