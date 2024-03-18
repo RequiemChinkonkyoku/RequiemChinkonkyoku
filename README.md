@@ -82,7 +82,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RequiemRekuiemu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/RequiemRekuiemu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <br>
 <br>
