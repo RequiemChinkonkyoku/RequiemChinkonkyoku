@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B8A&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Requiem+鎮魂曲" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Requiem" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Welcome! I'm <b>Requiem鎮魂曲</b>.</h2>
@@ -29,8 +29,8 @@ I previously tried pursuing a path in **indie game development**. Although I’v
 
 ## 📊 GitHub Statistics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=requiemchinkonkyoku&show_icons=true&theme=ambient_gradient&hide_border=true&count_private=true&include_all_commits=true" width="460" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemchinkonkyoku&layout=compact&theme=radical&hide_border=true" width="340" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=requiemchinkonkyoku&show_icons=true&theme=react&hide_border=true&include_all_commits=true" width="460" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=requiemchinkonkyoku&layout=compact&theme=react&hide_border=true" width="340" height="300"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
