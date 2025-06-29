@@ -20,7 +20,7 @@ My real name is Do Viet Phuong, but you can call me **Requiem** for convenience.
 I’ve recently completed my **Software Engineering Capstone project**, earning a **Bachelor's degree in Software Development**. I will be studying for **Master's degree** in the near future.
 
 💼 <b>Current Goal</b>  
-I'm currently seeking a **backend internship or a job** where I can contribute to real-world applications, collaborate with experienced developers, and refine my technical and teamwork skills.
+I'm currently seeking a **backend/fullstack (backend focus) job (with a dip in DevOps)** where I can contribute to real-world applications, collaborate with experienced developers, and refine my technical and teamwork skills.
 
 🎮 <b>Game Development</b>  
 I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I’m still open to opportunities in **game design or development** — feel free to reach out!
