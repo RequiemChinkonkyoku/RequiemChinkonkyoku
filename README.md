@@ -17,13 +17,13 @@
 My real name is Do Viet Phuong, but you can call me **Requiem** for convenience.
 
 🎓 <b>Education</b>  
-I’ve recently completed my **Software Engineering Capstone project**, earning a **Bachelor's degree in Software Development**. I will be studying for **Master's degree** in the near future.
+I have completed my **Software Engineering Capstone project**, earning a **Bachelor's degree in Software Development**. I will be studying for **Master's degree** in the foreseeable future.
 
-💼 <b>Current Goal</b>  
-I'm currently seeking a **backend/fullstack (backend focus) job (with a dip in DevOps)** where I can contribute to real-world applications, collaborate with experienced developers, and refine my technical and teamwork skills.
+💼 <b>Current Career</b>  
+I'm currently working as an **IT Consultant (developer/generalist)** at Netcompany - VN. Everything is satisfactory so far.
 
 🎮 <b>Game Development</b>  
-I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I’m still open to opportunities in **game design or development** — feel free to reach out!
+I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I’m still open to opportunities in **game design or development** — feel free to reach out! Only time will tell when I will come back personally, but I certainly will.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
