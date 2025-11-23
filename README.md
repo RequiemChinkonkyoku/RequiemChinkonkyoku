@@ -24,6 +24,7 @@ I'm currently working as an **IT Consultant (developer/generalist)** at Netcompa
 
 🎮 <b>Game Development</b>  
 I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I am still open to opportunities in **game design or development** — feel free to reach out!
+<br/><br/>
 Currently, I am doing hobby projects outside working hours to regain practice. My favorite genres are: tower defense, turn-based, or RPG and strategy in general.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
