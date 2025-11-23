@@ -23,7 +23,8 @@ I have completed my **Software Engineering Capstone project**, earning a **Bache
 I'm currently working as an **IT Consultant (developer/generalist)** at Netcompany - VN. Everything is satisfactory so far.
 
 🎮 <b>Game Development</b>  
-I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I’m still open to opportunities in **game design or development** — feel free to reach out! Only time will tell when I will come back personally, but I certainly will.
+I previously tried pursuing a path in **indie game development**. Although I’ve temporarily put my dream aside for practical reasons, I am still open to opportunities in **game design or development** — feel free to reach out!
+Currently, I am doing hobby projects outside working hours to regain practice. My favorite genres are: tower defense, turn-based, or RPG and strategy in general.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -120,4 +121,4 @@ I previously tried pursuing a path in **indie game development**. Although I’v
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Credit: [RequiemRekuiemu](https://github.com/RequiemRekuiemu)
+Credit: [RequiemChinkonkyoku](https://github.com/RequiemChinkonkyoku)
