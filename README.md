@@ -6,7 +6,7 @@
 <h2 align="center">Welcome! I'm <b>reqkuiem</b>.</h2>
 
 <p align="center">
-  🌐 Software Engineer | 🔧 Backend Developer
+  🌐 Software Engineer | 🔧 Backend-Oriented Developer
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 My real name is Do Viet Phuong, but you can call me **reqkuiem** for convenience.
 
 🎓 <b>Education</b>  
-I have completed my **Software Engineering Capstone project**, earning a **Bachelor's degree in Software Development**. I will be studying for **Master's degree** in the foreseeable future.
+I have completed my **Software Engineering Capstone project**, earning a **Bachelor's degree in Software Development**. I will be studying for **Master's degree** in the future, if I deem the certificate needed for my career path.
 
 💼 <b>Current Career</b>  
 I'm currently working as an **IT Consultant (developer/generalist)** at Netcompany - VN. Everything is satisfactory so far.
